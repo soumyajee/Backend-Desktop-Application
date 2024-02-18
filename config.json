@@ -1,0 +1,6 @@
+{
+  "model_path": "models\\EfficientNetAutoAttB4_DFDC_bestval-72ed969b2a395fffe11a0d5bf0a635e7260ba2588c28683630d97ff7153389fc.pth",
+  "face_policy": "scale",
+  "face_size": 224,
+  "frames_per_video": 32
+}
